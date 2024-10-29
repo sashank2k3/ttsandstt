@@ -5,8 +5,7 @@ import threading
 import time
 import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
-import os
-os.system("pipwin install pyaudio")
+import pyaudio
 
 
 # Download VADER sentiment analysis lexicon
