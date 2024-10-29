@@ -2,3 +2,4 @@ streamlit
 SpeechRecognition
 pyttsx3
 nltk
+PyAudio
